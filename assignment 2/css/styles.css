@@ -1,0 +1,79 @@
+/* //////////start of header //////////*/
+#header-logo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    /* text-transform: uppercase; */
+}
+
+#header-logo a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .85;
+    text-shadow: 1px 1px 1px #ff8b61;
+    font-weight: bold;
+}
+
+#header-logo a:hover {
+    color: #ff8b61;
+}
+.navbar-brand {
+    padding-top: 15px;
+}
+#nav-list a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #951C49;
+    text-align: center;
+}
+#nav-list a:hover {
+    background:#ff8b61;
+}
+
+
+/* //////////end of header //////////*/
+
+/* //////////start of main conten //////////*/
+#our-menu {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #ff8b61;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+
+/* #Beef-container {
+    padding: 20pxs;
+} */
+
+#Chicken, #Beef, #Suchi {
+    position: relative;
+    background-color: #cac8c0;
+    padding: 20px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 1px #ff8b61;
+    margin-top: 10px;
+}
+#Chicken h2, #Beef h2, #Suchi h2{
+    text-transform: uppercase;
+    font-weight: bolder;
+    position: relative;
+    top: -15px;
+}
+
+#Chicken a, #Beef a, #Suchi a{
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #ff8b61;
+}
+
+/* //////////end of main conten //////////*/
+
